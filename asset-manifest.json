@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-digikala/static/css/main.22ea56e1.chunk.css",
-    "main.js": "/react-digikala/static/js/main.babb5d28.chunk.js",
-    "main.js.map": "/react-digikala/static/js/main.babb5d28.chunk.js.map",
+    "main.js": "/react-digikala/static/js/main.a96c71cc.chunk.js",
+    "main.js.map": "/react-digikala/static/js/main.a96c71cc.chunk.js.map",
     "runtime-main.js": "/react-digikala/static/js/runtime-main.295a7430.js",
     "runtime-main.js.map": "/react-digikala/static/js/runtime-main.295a7430.js.map",
     "static/css/2.a6390d9e.chunk.css": "/react-digikala/static/css/2.a6390d9e.chunk.css",
@@ -57,6 +57,6 @@
     "static/css/2.a6390d9e.chunk.css",
     "static/js/2.8615da27.chunk.js",
     "static/css/main.22ea56e1.chunk.css",
-    "static/js/main.babb5d28.chunk.js"
+    "static/js/main.a96c71cc.chunk.js"
   ]
 }
